@@ -1,0 +1,9 @@
+{
+    "sonido": true,
+    "notificacion": true,
+    "tema": "oscuro",
+    "tiempo_pomodoro": 25,
+    "tiempo_descanso": 5,
+    "tiempo_descanso_largo": 15,
+    "cantidad_pomodoros": 0
+}
